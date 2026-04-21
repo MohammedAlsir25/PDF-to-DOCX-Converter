@@ -1,0 +1,6 @@
+{
+  "name": "PDF to DOCX Converter",
+  "description": "High-accuracy PDF to Word conversion supporting English, Arabic, and multiple languages with layout preservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

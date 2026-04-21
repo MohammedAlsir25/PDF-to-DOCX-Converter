@@ -1,0 +1,16 @@
+{
+  "name": "PDF to DOCX Converter",
+  "short_name": "PDF2DOCX",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0B",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "blob:https://ais-dev-zydmbkq7m3kom7na4dqk6o-184704633091.europe-west1.run.app/1647417e-7975-400a-9d93-37609a5eb405",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

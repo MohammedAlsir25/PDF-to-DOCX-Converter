@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PDF to DOCX Converter</string>
+    <string name="title_activity_main">PDF to DOCX Converter</string>
+    <string name="package_name">com.pdf2docx.converter</string>
+    <string name="custom_url_scheme">com.pdf2docx.converter</string>
+</resources>
