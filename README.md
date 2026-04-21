@@ -1,6 +1,7 @@
 # 📄 PDF to DOCX Converter (High Fidelity)
 
-![Banner](https://picsum.photos/seed/converter/1200/400)
+<img width="1881" height="806" alt="image" src="https://github.com/user-attachments/assets/6509a469-b469-4b50-bcce-c191aaaf53dd" />
+
 
 A professional-grade, full-stack application designed to transform static PDF documents into fully editable Microsoft Word files while maintaining absolute visual and structural integrity. 
 
